@@ -1,0 +1,6 @@
+C:\Users\consultec\Desktop\visual studio 2012\DataTypes\DataTypes\bin\Debug\DataTypes.exe.config
+C:\Users\consultec\Desktop\visual studio 2012\DataTypes\DataTypes\bin\Debug\DataTypes.exe
+C:\Users\consultec\Desktop\visual studio 2012\DataTypes\DataTypes\bin\Debug\DataTypes.pdb
+C:\Users\consultec\Desktop\visual studio 2012\DataTypes\DataTypes\obj\Debug\DataTypes.csprojResolveAssemblyReference.cache
+C:\Users\consultec\Desktop\visual studio 2012\DataTypes\DataTypes\obj\Debug\DataTypes.exe
+C:\Users\consultec\Desktop\visual studio 2012\DataTypes\DataTypes\obj\Debug\DataTypes.pdb

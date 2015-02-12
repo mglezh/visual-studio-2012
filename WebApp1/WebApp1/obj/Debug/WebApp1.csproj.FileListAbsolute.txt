@@ -1,0 +1,5 @@
+C:\Users\consultec\Desktop\visual studio 2012\WebApp1\WebApp1\bin\WebApp1.dll
+C:\Users\consultec\Desktop\visual studio 2012\WebApp1\WebApp1\bin\WebApp1.pdb
+C:\Users\consultec\Desktop\visual studio 2012\WebApp1\WebApp1\obj\Debug\WebApp1.csprojResolveAssemblyReference.cache
+C:\Users\consultec\Desktop\visual studio 2012\WebApp1\WebApp1\obj\Debug\WebApp1.dll
+C:\Users\consultec\Desktop\visual studio 2012\WebApp1\WebApp1\obj\Debug\WebApp1.pdb
