@@ -13,8 +13,8 @@
     
         <asp:Label ID="lblNumero" runat="server" Text="Introduce un entero: "></asp:Label>
         <asp:TextBox ID="txtNumber" runat="server"></asp:TextBox>
-        <asp:RadioButtonList ID="rdlElementos" runat="server" Height="16px" Width="41px" OnSelectedIndexChanged="rdlElementos_SelectedIndexChanged">
-            <asp:ListItem>1</asp:ListItem>
+        <asp:RadioButtonList ID="rdlElementos" runat="server" Height="16px" Width="41px">
+            <asp:ListItem Selected="True">1</asp:ListItem>
             <asp:ListItem>2</asp:ListItem>
             <asp:ListItem>3</asp:ListItem>
             <asp:ListItem>4</asp:ListItem>
