@@ -26,13 +26,19 @@ namespace WebAppOperaciones
 
         protected void btnAceptar_Click(object sender, EventArgs e)
         {
+            bool usuarioValido = false; 
+
             for (int i = 0; i < usuarios.Length/2; i++)
             {
-                if ((usuarios[i, 0] == txtUsuario.Text) && (usuarios[1, 1] == txtContrasena.Text))
+                if ((usuarios[i, 0] == txtUsuario.Text) && (usuarios[i, 1] == txtContrasena.Text))
                 {
+                    Response.Redirect("../Default.aspx");
+                   // lblResultado.Text = "Bienvenido al sitio " + txtUsuario.Text;
+                    usuarioValido = true;
+                    break;
                 }
             }
-
+            if (!usuarioValido) lblResultado.Text = "Verifique su nombre y contraseña";
         }
     }
 }

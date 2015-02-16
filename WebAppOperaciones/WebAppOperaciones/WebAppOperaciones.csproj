@@ -183,6 +183,7 @@
     <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="Ejemplos\Doble.aspx" />
     <Content Include="Ejemplos\Dados.aspx" />
     <Content Include="Ejemplos\MayorMenor.aspx" />
     <Content Include="Images\accent.png" />
@@ -287,6 +288,13 @@
     </Compile>
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Ejemplos\Doble.aspx.cs">
+      <DependentUpon>Doble.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ejemplos\Doble.aspx.designer.cs">
+      <DependentUpon>Doble.aspx</DependentUpon>
     </Compile>
     <Compile Include="Ejemplos\Dados.aspx.cs">
       <DependentUpon>Dados.aspx</DependentUpon>

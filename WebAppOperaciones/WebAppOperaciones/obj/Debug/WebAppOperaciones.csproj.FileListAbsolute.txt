@@ -32,3 +32,37 @@ C:\Users\consultec\Desktop\visual studio 2012\WebAppOperaciones\WebAppOperacione
 C:\Users\consultec\Desktop\visual studio 2012\WebAppOperaciones\WebAppOperaciones\obj\Debug\WebAppOperaciones.csprojResolveAssemblyReference.cache
 C:\Users\consultec\Desktop\visual studio 2012\WebAppOperaciones\WebAppOperaciones\obj\Debug\WebAppOperaciones.dll
 C:\Users\consultec\Desktop\visual studio 2012\WebAppOperaciones\WebAppOperaciones\obj\Debug\WebAppOperaciones.pdb
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\WebAppOperaciones.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\WebAppOperaciones.pdb
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\Antlr3.Runtime.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\DotNetOpenAuth.Core.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\EntityFramework.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\System.Web.Optimization.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\System.Web.Providers.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\WebGrease.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\EntityFramework.xml
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\DotNetOpenAuth.Core.xml
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\es\EntityFramework.resources.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\es\System.Web.Optimization.resources.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\es\System.Web.Providers.resources.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\obj\Debug\WebAppOperaciones.csprojResolveAssemblyReference.cache
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\obj\Debug\WebAppOperaciones.dll
+C:\Users\consultec\Desktop\visual-studio-2012\WebAppOperaciones\WebAppOperaciones\obj\Debug\WebAppOperaciones.pdb
